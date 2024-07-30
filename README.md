@@ -9,7 +9,7 @@ Requires [AHK v2](https://www.autohotkey.com) (may support .exe in the future)
 - Run the script
 	
 ## Features and keybinds
-- `Ctrl + Alt + Enter` to reset
+- `Ctrl + Alt + Enter` to reset, currently only supports GUI scale large at 1080p you can customise the click location with AutoHotkey Window Spy
 - `Alt + t` to do /time and /seed (auto opens to lan)
 - forward/backward mouse buttons to toggle hold down for mouse left and right respectively
 - Edit `BTWResetStatistics.ini` to change your attempt count
