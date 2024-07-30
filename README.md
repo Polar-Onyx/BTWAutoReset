@@ -1,7 +1,7 @@
 # BTWAutoReset
  An automatic reset script for Better Than Wolves (also compatible with vanilla 1.4-1.8) and some other qol features
 
-Requires AHK v2 (may support .exe in the future)
+Requires [AHK v2](https://www.autohotkey.com) (may support .exe in the future)
 
 ## Setup
 - Download and place the .ahk and .ini file into a folder you will remember
