@@ -4,6 +4,7 @@
 Requires AHK v2 (may support .exe in the future)
 
 ## Setup
+- Download and place the .ahk and .ini file into a folder you will remember
 - Edit the .ahk script and input your catagory and seed (0 for rsg) at the top
 - Run the script
 	
